@@ -1,7 +1,7 @@
-## Essa automação lhe permite se conectar com Tech Recruiters no Linkedin, caso queira mudar de Tech Recruiter para outra tag
-## isso deve ser alterado na linha 60 do arquivo main.
+Essa automação lhe permite se conectar com Tech Recruiters no Linkedin, caso queira mudar de Tech Recruiter para outra tag
+isso deve ser alterado na linha 60 do arquivo main.
 
-## O usuário deve ter o ChromeDriver, Selenium e o Python instalado.
-## O usuário deve colocar suas credenciais (email e senha) no arquivo .env 
+O usuário deve ter o ChromeDriver, Selenium e o Python instalado.
+O usuário deve colocar suas credenciais (email e senha) no arquivo .env 
 
-## Após isso basta iniciar o projeto dentro da pasta com o comando #python main.py
+Após isso basta iniciar o projeto dentro da pasta com o comando #python main.py
